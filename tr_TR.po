@@ -1,0 +1,1083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinity 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/infinity\n"
+"POT-Creation-Date: 2012-04-27 18:41:52+00:00\n"
+"PO-Revision-Date: 2012-04-28 04:21+0200\n"
+"Last-Translator: Ünsal Korkmaz <unsalkorkmaz@gmail.com>\n"
+"Language-Team: Ünsal Korkmaz <unsalkorkmaz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:23
+#@ infinity
+msgid "Darn it.. Nothing found"
+msgstr "Tüh.. Hiçbir şey bulunamadı"
+
+#: 404.php:29
+#: search.php:40
+#@ infinity
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Üzgünüz ama hiçbir şey sizin arama kriterinizle uyuşmadı. Bazı farklı anahtar kelimeler ile tekrar deneyin."
+
+#: 404.php:45
+#@ infinity
+msgid "Most Used Categories"
+msgstr "En Çok Kullanılan Kategoriler"
+
+#. translators: %1$s: smilie
+#: 404.php:54
+#, php-format
+#@ infinity
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylık arşivlere bakmayı deneyin. %1$s"
+
+#: archive-template.php:45
+#: templates/loops/loop-page.php:39
+#@ infinity
+msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
+msgstr "<p class=\"serif\">Bu sayfanın devamını okuyun &rarr;</p>"
+
+#: archive-template.php:52
+#@ infinity_text_domain
+msgid "Last 30 Posts"
+msgstr "Son 30 Yazı"
+
+#: archive-template.php:63
+#@ infinity_text_domain
+msgid "Archives by Month:"
+msgstr "Aylık Arşivler:"
+
+#: archive-template.php:73
+#@ infinity_text_domain
+msgid "Archives by Subject:"
+msgstr "Konu Arşivleri:"
+
+#: archive.php:25
+#, php-format
+#@ infinity
+msgid "You are browsing the archive for %1$s."
+msgstr "%1$s arşivini görüntülüyorsunuz."
+
+#: comments.php:13
+#@ infinity
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Lütfen direk bu sayfayı yüklemeyin. Teşekkürler!"
+
+#: comments.php:16
+#@ infinity
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifre korumalıdır. Lütfen yorumları görmek için şifreyi giriniz."
+
+#: comments.php:35
+#, php-format
+#@ infinity
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%2$s için %1$s cevap"
+
+#: comments.php:51
+#@ infinity
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eski Yorumlar"
+
+#: comments.php:52
+#@ infinity
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni Yorumlar <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:58
+#@ infinity
+msgid "Trackbacks/Pingbacks"
+msgstr "Geri bildirim/ Geri izlemeler"
+
+#: dashboard/cpanel.php:188
+#, php-format
+#@ infinity
+msgid "There was an error while trying to load the %s tab content."
+msgstr " %s sekme içeriğini yüklerken hata oluştu."
+
+#: dashboard/templates/cpanel.php:20
+#@ infinity
+msgid "infinity"
+msgstr ""
+
+#: dashboard/templates/cpanel.php:29
+#@ infinity
+msgid "Refresh current tab"
+msgstr "Şu anki sekmeyi yenile"
+
+#: dashboard/templates/cpanel.php:30
+#@ infinity
+msgid "Refresh"
+msgstr "Yenile"
+
+#: dashboard/templates/cpanel.php:35
+#@ infinity
+msgid "Toggle scroll bars on/off"
+msgstr "Kaydırma çubuklarını aç/kapat"
+
+#: dashboard/templates/cpanel.php:35
+#@ infinity
+msgid "Scrolling"
+msgstr "Kaydırma"
+
+#: dashboard/templates/cpanel_header.php:2
+#@ infinity
+msgid "Version:"
+msgstr "Versiyon:"
+
+#: dashboard/templates/options/block.php:25
+#@ infinity
+msgid "Edit Setting"
+msgstr "Ayarları Düzenle"
+
+#: dashboard/templates/options/block.php:27
+#@ infinity
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: dashboard/templates/options/block.php:30
+#@ infinity
+msgid "Sample Code"
+msgstr "Örnek Kod"
+
+#: dashboard/templates/options/menu_section.php:16
+#@ infinity
+msgid "Show All"
+msgstr "Hepsini Göster"
+
+#: dashboard/templates/options/meta.php:12
+#@ infinity
+msgid "Last Modified:"
+msgstr "Son Değişiklik:"
+
+#: dashboard/templates/screens/typography.php:13
+#: engine/ICE/ext/options/ui/font-picker/template.php:30
+#@ infinity
+msgid "Slant"
+msgstr ""
+
+#: dashboard/templates/screens/typography.php:14
+#: engine/ICE/ext/options/ui/font-picker/template.php:33
+#@ infinity
+msgid "Service"
+msgstr "Servis"
+
+#: dashboard/templates/screens/typography.php:15
+#: engine/ICE/ext/options/ui/font-picker/template.php:34
+#@ infinity
+msgid "Thickness"
+msgstr "Kalınlık"
+
+#: dashboard/templates/screens/typography.php:16
+#: engine/ICE/ext/options/ui/font-picker/template.php:35
+#@ infinity
+msgid "Script"
+msgstr ""
+
+#: engine/ICE/components/options/registry.php:281
+#, php-format
+#@ infinity
+msgid "%d option successfully updated."
+msgstr "%d seçenek başarıyla güncellendi."
+
+#: engine/ICE/components/options/registry.php:283
+#, php-format
+#@ infinity
+msgid "%d options successfully updated."
+msgstr "%d seçenek başarıyla güncellendi."
+
+#: engine/ICE/components/options/registry.php:285
+#@ infinity
+msgid "An error has occurred. No options were updated."
+msgstr "Bir hata oluştu. Hiçbir seçenek güncellenmedi."
+
+#: engine/ICE/components/options/renderer.php:151
+#@ infinity
+msgid "Never"
+msgstr "Hiçbir zaman"
+
+#: engine/ICE/components/options/renderer.php:164
+#@ infinity
+msgid "Save All"
+msgstr "Hepsini Kaydet"
+
+#: engine/ICE/components/options/renderer.php:177
+#@ infinity
+msgid "Save"
+msgstr "Kaydet"
+
+#: engine/ICE/components/options/renderer.php:190
+#@ infinity
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: engine/ICE/dom/style.php:794
+#@ infinity
+msgid "Inherit"
+msgstr ""
+
+#: engine/ICE/dom/style.php:1438
+#@ infinity
+msgid "Full Tiling"
+msgstr "Tam Kapla"
+
+#: engine/ICE/dom/style.php:1439
+#@ infinity
+msgid "Tile Horizontally Only"
+msgstr "Sadece Yatay Kapla"
+
+#: engine/ICE/dom/style.php:1440
+#@ infinity
+msgid "Tile Vertically Only"
+msgstr "Sadece Dikey Kapla"
+
+#: engine/ICE/dom/style.php:1441
+#@ infinity
+msgid "Disable Tiling"
+msgstr "Kaplamayı Devre Dışı Bırak"
+
+#: engine/ICE/dom/style.php:1465
+#@ infinity
+msgid "Thin"
+msgstr "İnce"
+
+#: engine/ICE/dom/style.php:1466
+#@ infinity
+msgid "Medium"
+msgstr "Orta"
+
+#: engine/ICE/dom/style.php:1467
+#@ infinity
+msgid "Thick"
+msgstr "Kalın"
+
+#: engine/ICE/dom/style.php:1480
+#@ infinity
+msgid "Black"
+msgstr "Siyah"
+
+#: engine/ICE/dom/style.php:1481
+#@ infinity
+msgid "Silver"
+msgstr "Gümüş"
+
+#: engine/ICE/dom/style.php:1482
+#@ infinity
+msgid "Gray"
+msgstr "Gri"
+
+#: engine/ICE/dom/style.php:1483
+#@ infinity
+msgid "White"
+msgstr "Beyaz"
+
+#: engine/ICE/dom/style.php:1484
+#@ infinity
+msgid "Maroon"
+msgstr "Kestane Rengi"
+
+#: engine/ICE/dom/style.php:1485
+#@ infinity
+msgid "Red"
+msgstr "Kırmızı"
+
+#: engine/ICE/dom/style.php:1486
+#@ infinity
+msgid "Purple"
+msgstr "Mor"
+
+#: engine/ICE/dom/style.php:1487
+#@ infinity
+msgid "Fuchsia"
+msgstr "Fuşya"
+
+#: engine/ICE/dom/style.php:1488
+#@ infinity
+msgid "Green"
+msgstr "Yeşil"
+
+#: engine/ICE/dom/style.php:1489
+#@ infinity
+msgid "Lime"
+msgstr "Çim Yeşili"
+
+#: engine/ICE/dom/style.php:1490
+#@ infinity
+msgid "Olive"
+msgstr "Zeytin Yeşili"
+
+#: engine/ICE/dom/style.php:1491
+#@ infinity
+msgid "Yellow"
+msgstr "Sarı"
+
+#: engine/ICE/dom/style.php:1492
+#@ infinity
+msgid "Navy"
+msgstr "Lacivert"
+
+#: engine/ICE/dom/style.php:1493
+#@ infinity
+msgid "Blue"
+msgstr "Mavi"
+
+#: engine/ICE/dom/style.php:1494
+#@ infinity
+msgid "Teal"
+msgstr "Koyu Gökmavi"
+
+#: engine/ICE/dom/style.php:1495
+#@ infinity
+msgid "Aqua"
+msgstr "Turkuaz"
+
+#: engine/ICE/dom/style.php:1519
+#@ infinity
+msgid "Times (serif)"
+msgstr ""
+
+#: engine/ICE/dom/style.php:1520
+#@ infinity
+msgid "Helvetica (sans-serif)"
+msgstr ""
+
+#: engine/ICE/dom/style.php:1521
+#@ infinity
+msgid "Courier (monospace)"
+msgstr ""
+
+#: engine/ICE/dom/style.php:1522
+#@ infinity
+msgid "Zapf-Chancery (cursive)"
+msgstr ""
+
+#: engine/ICE/dom/style.php:1523
+#@ infinity
+msgid "Western (fantasy)"
+msgstr ""
+
+#: engine/ICE/dom/style.php:1535
+#@ infinity
+msgid "Lighter"
+msgstr "İnce"
+
+#: engine/ICE/dom/style.php:1536
+#: engine/ICE/ext/options/ui/font-picker/template.php:31
+#@ infinity
+msgid "Normal"
+msgstr "Normal"
+
+#: engine/ICE/dom/style.php:1537
+#@ infinity
+msgid "Bold"
+msgstr "Kalın"
+
+#: engine/ICE/dom/style.php:1538
+#@ infinity
+msgid "Bolder"
+msgstr "Daha Kalın"
+
+#: engine/ICE/dom/style.php:1539
+#@ infinity
+msgid "One Hundred"
+msgstr "Yüz"
+
+#: engine/ICE/dom/style.php:1540
+#@ infinity
+msgid "Two Hundred"
+msgstr "İki Yüz"
+
+#: engine/ICE/dom/style.php:1541
+#@ infinity
+msgid "Three Hundred"
+msgstr "Üç Yüz"
+
+#: engine/ICE/dom/style.php:1542
+#@ infinity
+msgid "Four Hundred"
+msgstr "Dört Yüz"
+
+#: engine/ICE/dom/style.php:1543
+#@ infinity
+msgid "Five Hundred"
+msgstr "Beş Yüz"
+
+#: engine/ICE/dom/style.php:1544
+#@ infinity
+msgid "Six Hundred"
+msgstr "Altı Yüz"
+
+#: engine/ICE/dom/style.php:1545
+#@ infinity
+msgid "Seven Hundred"
+msgstr "Yedi Yüz"
+
+#: engine/ICE/dom/style.php:1546
+#@ infinity
+msgid "Eight Hundred"
+msgstr "Sekiz Yüz"
+
+#: engine/ICE/dom/style.php:1547
+#@ infinity
+msgid "Nine Hundred"
+msgstr "Dokuz Yüz"
+
+#: engine/ICE/ext/features/bp/support/class.php:49
+#@ infinity
+msgid "You have BuddyPress activated, but the templates are missing from your theme!"
+msgstr "Sitenizde BuddyPress aktif ama temanızda dosyaları eksik!"
+
+#: engine/ICE/ext/features/bp/support/class.php:81
+#@ buddypress
+msgid "My Favorites"
+msgstr "Favorilerim"
+
+#: engine/ICE/ext/features/bp/support/class.php:82
+#@ buddypress
+msgid "Accepted"
+msgstr "Kabul Edildi"
+
+#: engine/ICE/ext/features/bp/support/class.php:83
+#@ buddypress
+msgid "Rejected"
+msgstr "Reddedildi"
+
+#: engine/ICE/ext/features/bp/support/class.php:84
+#@ buddypress
+msgid "Show all comments for this thread"
+msgstr "Bu konudaki bütün yorumları göster"
+
+#: engine/ICE/ext/features/bp/support/class.php:85
+#@ buddypress
+msgid "Show all"
+msgstr "Hepsini Göster"
+
+#: engine/ICE/ext/features/bp/support/class.php:86
+#@ buddypress
+msgid "comments"
+msgstr "yorumlar"
+
+#: engine/ICE/ext/features/bp/support/class.php:87
+#@ buddypress
+msgid "Close"
+msgstr "Kapat"
+
+#: engine/ICE/ext/features/bp/support/class.php:88
+#@ buddypress
+msgid "View"
+msgstr "Görüntüle"
+
+#: engine/ICE/ext/features/bp/support/class.php:89
+#@ buddypress
+msgid "Favorite"
+msgstr "Favori"
+
+#: engine/ICE/ext/features/bp/support/class.php:90
+#@ buddypress
+msgid "Remove Favorite"
+msgstr "Favoriyi Kaldır"
+
+#: engine/ICE/ext/features/header-logo/class.php:35
+#@ infinity
+msgid "Header Logo"
+msgstr "Başlık Logosu"
+
+#: engine/ICE/ext/features/header-logo/class.php:36
+#@ infinity
+msgid "Custom header logo support"
+msgstr "Özel başlık logosu desteği"
+
+#: engine/ICE/ext/options/categories/class.php:45
+#@ default
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: engine/ICE/ext/options/css/bg-color/class.php:33
+#@ infinity
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: engine/ICE/ext/options/css/bg-color/class.php:34
+#@ infinity
+msgid "Choose a background color"
+msgstr "Bir arka plan rengi seçin"
+
+#: engine/ICE/ext/options/css/bg-image/class.php:33
+#@ infinity
+msgid "Background Image"
+msgstr "Arkaplan resmi"
+
+#: engine/ICE/ext/options/css/bg-image/class.php:34
+#@ infinity
+msgid "Upload an image to use as the background"
+msgstr "Arkaplanda kullanmak için bir resim yükleyin"
+
+#: engine/ICE/ext/options/css/bg-repeat/class.php:33
+#@ infinity
+msgid "Background Image Tiling"
+msgstr "Arkaplan Resim Kaplama"
+
+#: engine/ICE/ext/options/css/bg-repeat/class.php:34
+#@ infinity
+msgid "Set the tiling mode of the background image"
+msgstr "Arkaplan resmi için kaplama şekli seçin"
+
+#: engine/ICE/ext/options/plugins/domain-mapping/class.php:36
+#@ infinity
+msgid "Custom Domain"
+msgstr "Özel Alanadı"
+
+#: engine/ICE/ext/options/plugins/domain-mapping/class.php:37
+#@ infinity
+msgid "Enter the custom domain name you wish to map to your site."
+msgstr "Sitenizde kullanmak istediğiniz özel alanadını girin."
+
+#: engine/ICE/ext/options/position/left-center-right/class.php:31
+#: engine/ICE/ext/options/position/left-right/class.php:31
+#@ infinity
+msgid "Left"
+msgstr "Sol"
+
+#: engine/ICE/ext/options/position/left-center-right/class.php:32
+#@ infinity
+msgid "Center"
+msgstr "Merkez"
+
+#: engine/ICE/ext/options/position/left-center-right/class.php:33
+#: engine/ICE/ext/options/position/left-right/class.php:32
+#@ infinity
+msgid "Right"
+msgstr "Sağ"
+
+#: engine/ICE/ext/options/position/top-bottom/class.php:31
+#@ infinity
+msgid "Top"
+msgstr "Üst"
+
+#: engine/ICE/ext/options/position/top-bottom/class.php:32
+#@ infinity
+msgid "Bottom"
+msgstr "Alt"
+
+#: engine/ICE/ext/options/toggle/disable/class.php:32
+#: engine/ICE/ext/options/toggle/enable-disable/class.php:32
+#@ infinity
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#: engine/ICE/ext/options/toggle/enable/class.php:31
+#: engine/ICE/ext/options/toggle/enable-disable/class.php:31
+#@ infinity
+msgid "Enable"
+msgstr "Aktif Et"
+
+#: engine/ICE/ext/options/toggle/no/class.php:32
+#: engine/ICE/ext/options/toggle/yes-no/class.php:32
+#@ infinity
+msgid "No"
+msgstr "Hayır"
+
+#: engine/ICE/ext/options/toggle/off/class.php:32
+#: engine/ICE/ext/options/toggle/on-off/class.php:32
+#@ infinity
+msgid "Off"
+msgstr "Kapat"
+
+#: engine/ICE/ext/options/toggle/on/class.php:31
+#: engine/ICE/ext/options/toggle/on-off/class.php:31
+#@ infinity
+msgid "On"
+msgstr "Aç"
+
+#: engine/ICE/ext/options/toggle/yes/class.php:31
+#: engine/ICE/ext/options/toggle/yes-no/class.php:31
+#@ infinity
+msgid "Yes"
+msgstr "Evet"
+
+#: engine/ICE/ext/options/ui/font-picker/template.php:32
+#@ infinity
+msgid "Italic"
+msgstr "Eğik"
+
+#: engine/ICE/ext/options/ui/scroll-picker/template.php:19
+#@ infinity
+msgid "Current Selection"
+msgstr "Şimdiki Seçim"
+
+#: engine/ICE/ext/options/ui/slider/class.php:161
+#@ infinity
+msgid "Current selection:"
+msgstr "Şimdiki Seçim:"
+
+#: engine/ICE/ext/options/upload/class.php:109
+#@ infinity
+msgid "Failed to lookup attachment URL"
+msgstr "Ekli dosya adresine ulaşılamadı"
+
+#: engine/ICE/ext/options/upload/class.php:112
+#@ infinity
+msgid "No attachment ID received"
+msgstr "Hiçbir ekli dosya numarası alınamadı"
+
+#: engine/ICE/ext/options/upload/template.php:22
+#@ infinity
+msgid "Current Image"
+msgstr "Şimdiki Resim"
+
+#: engine/ICE/ext/options/upload/template.php:25
+#@ infinity
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+#: engine/ICE/ext/options/upload/template.php:26
+#: engine/includes/comments.php:40
+#@ infinity
+msgid "Edit"
+msgstr "Düzenle"
+
+#: engine/ICE/ext/options/upload/template.php:27
+#: engine/ICE/ext/widgets/posts-list/class.php:493
+#@ infinity
+#@ default
+msgid "Trash"
+msgstr "Sil"
+
+#: engine/ICE/ext/options/upload/template.php:29
+#@ infinity
+msgid "Full Size Image"
+msgstr "Tam Boy Resim"
+
+#: engine/ICE/ext/options/upload/template.php:34
+#@ infinity
+msgid "Upload Status"
+msgstr "Yükleme Durumu"
+
+#: engine/ICE/ext/options/wp/blogdescription/class.php:33
+#@ default
+msgid "Tagline"
+msgstr "Slogan"
+
+#: engine/ICE/ext/options/wp/blogdescription/class.php:34
+#@ default
+msgid "In a few words, explain what this site is about."
+msgstr "Kısaca, bu sitenin ne hakkında olduğunu açıklayın."
+
+#: engine/ICE/ext/options/wp/blogname/class.php:33
+#@ default
+msgid "Site Title"
+msgstr "Site Başlığı"
+
+#: engine/ICE/ext/options/wp/page-on-front/class.php:33
+#@ default
+msgid "Front page displays"
+msgstr "Ana Sayfa Görüntüsü"
+
+#: engine/ICE/ext/options/wp/page-on-front/class.php:34
+#@ default
+msgid "Select the page to show on the front page"
+msgstr "Ana sayfada görüntülenecek sayfayı seçin"
+
+#: engine/ICE/ext/sections/default/template.php:18
+#@ infinity
+msgid "Options"
+msgstr "Seçenekler"
+
+#: engine/ICE/ext/shortcodes/access/template.php:22
+#: engine/ICE/ext/shortcodes/visitor/template.php:22
+#@ infinity
+msgid "Sorry, only registered users can see this text."
+msgstr "Üzgünüz, sadece kayıtlı kullanıcılar bu yazıyı görüntüleyebilir."
+
+#: engine/ICE/ext/widgets/debugger/class.php:159
+#@ infinity
+msgid "Scheme"
+msgstr "Şema"
+
+#: engine/ICE/ext/widgets/debugger/class.php:262
+#@ infinity
+msgid "null"
+msgstr "boş değer"
+
+#: engine/ICE/ext/widgets/debugger/class.php:283
+#@ default
+msgid "Yes|On|true"
+msgstr "Evet|Aktif|doğru"
+
+#: engine/ICE/ext/widgets/debugger/class.php:285
+#@ default
+msgid "No|Off|false|null"
+msgstr "Hayır|Kapalı|yanlış|boş değer"
+
+#: engine/ICE/ext/widgets/debugger/class.php:287
+#, php-format
+#@ infinity
+msgid "(integer)&nbsp;%d"
+msgstr "(sayı)&nbsp;%d"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:151
+#, php-format
+#@ infinity
+msgid "%d items updated, %d items failed"
+msgstr "%d öğe güncellendi, %d öğe başarız"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:160
+#, php-format
+#@ infinity
+msgid "%d items updated"
+msgstr "%d öğe güncellendi"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:166
+#@ infinity
+msgid "No items received"
+msgstr "Hiçbir öğe alınamadı"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:169
+#: engine/ICE/ext/widgets/posts-list/class.php:205
+#@ infinity
+msgid "Missing required data"
+msgstr "Gerekli bilgi eksik"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:197
+#@ infinity
+msgid "Item status updated"
+msgstr "Öğe durumu güncellendi"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:199
+#@ infinity
+msgid "Item status update failed"
+msgstr "Öğe durumu güncelleme başarısız"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:202
+#@ infinity
+msgid "Invalid item status"
+msgstr "Geçersiz öğe durumu"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:222
+#@ infinity
+msgid "Item moved to trash"
+msgstr "Öğe çöpe taşındı"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:224
+#@ infinity
+msgid "Move item to trash failed"
+msgstr "Öğenin çöpe taşınması başarısız"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:228
+#@ infinity
+msgid "Missing item id"
+msgstr "Öğe numarası bulunamadı"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:464
+#@ default
+msgid "Draft"
+msgstr "Taslak"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:466
+#@ default
+msgid "Published"
+msgstr "Yayınlandı"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:470
+#@ default
+msgid "Pending"
+msgstr "Beklemede"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:474
+#@ default
+msgid "Scheduled"
+msgstr "Zamanlandı"
+
+#: engine/ICE/ext/widgets/posts-list/class.php:478
+#@ default
+msgid "Trashed"
+msgstr "Çöpe Taşındı"
+
+#: engine/ICE/ext/widgets/posts-list/template.php:23
+#@ infinity
+msgid "Create New"
+msgstr "Yeni Ekle"
+
+#: engine/ICE/ext/widgets/theme-picker/class.php:187
+#@ infinity
+msgid "Theme activated"
+msgstr "Tema Etkinleştirildi"
+
+#: engine/ICE/ext/widgets/theme-picker/class.php:190
+#@ infinity
+msgid "Theme activation failed"
+msgstr "Tema Etkinleştirme başarısız"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:23
+#@ infinity
+msgid "Launch Theme Browser"
+msgstr "Tema Görüntülemeyi Çalıştır"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:31
+#, php-format
+#@ default
+msgid "%1$s %2$s by %3$s"
+msgstr "%1$s %2$s - %3$s"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:36
+#, php-format
+#@ default
+msgid "Activate &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; Etkinleştir"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:36
+#@ default
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:37
+#, php-format
+#@ default
+msgid "Preview of &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; Önizlemesi"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:37
+#@ default
+msgid "Preview"
+msgstr "Ön izleme"
+
+#: engine/ICE/ext/widgets/theme-picker/template.php:64
+#@ infinity
+msgid "Theme Browser"
+msgstr "Tema Tarayıcı"
+
+#: engine/api/options.php:598
+#@ infinity
+msgid "Failed to render options"
+msgstr "Ayarların gösterimi başarısız"
+
+#: engine/extensions/options/css/overlay-image/class.php:33
+#@ infinity
+msgid "Overlay Image"
+msgstr "Kaplama Resmi"
+
+#: engine/extensions/options/css/overlay-image/class.php:34
+#@ infinity
+msgid "Select a texture to use as the background overlay"
+msgstr "Arkaplan kaplaması olarak kullanmak için bir doku seçin"
+
+#: engine/extensions/options/css/overlay-opacity/class.php:33
+#@ infinity
+msgid "Overlay Opacity"
+msgstr "Kaplama Saydamlığı"
+
+#: engine/extensions/options/css/overlay-opacity/class.php:34
+#@ infinity
+msgid "Select the overlay opacity by moving the slider"
+msgstr "Sürgü taşıyarak kaplama saydamlığını seçin"
+
+#: engine/includes/comments.php:38
+#@ infinity
+msgid "at"
+msgstr "->"
+
+#: engine/includes/comments.php:39
+#@ infinity
+msgid "Direct link to this comment"
+msgstr "Bu yorumun direk adresi"
+
+#: engine/includes/comments.php:45
+#@ infinity
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: engine/includes/setup.php:104
+#@ infinity
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#: engine/includes/setup.php:107
+#@ infinity
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: engine/includes/setup.php:110
+#@ default
+msgid "Sub Menu"
+msgstr "Alt Menü"
+
+#: engine/includes/setup.php:113
+#@ infinity
+msgid "Footer Menu"
+msgstr "Site altı Menüsü"
+
+#: engine/includes/templatetags.php:40
+#, php-format
+#@ infinity
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: engine/includes/templatetags.php:161
+#, php-format
+#@ infinity
+msgid "<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a>"
+msgstr ""
+
+#: engine/includes/templatetags.php:167
+#, php-format
+#@ infinity
+msgid "View all posts by %s"
+msgstr "%s tüm yazıları"
+
+#: search.php:24
+#, php-format
+#@ infinity
+msgid "Search Results for: <span>%s</span>"
+msgstr "<span>%s</span> için Arama Sonuçları"
+
+#: search.php:34
+#@ infinity
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: templates/loops/loop-attachment.php:26
+#: templates/loops/loop-blog.php:30
+#: templates/loops/loop.php:29
+#: templates/parts/post-thumbnail.php:19
+#@ infinity
+msgid "Permanent Link to"
+msgstr "Kalıcı Bağlantı:"
+
+#: templates/loops/loop-attachment.php:59
+#, php-format
+#@ infinity
+msgid "Full size is %s pixels"
+msgstr "Tam boyu %s pixel"
+
+#: templates/loops/loop-attachment.php:62
+#@ infinity
+msgid "Link to full size image"
+msgstr "Tam boy resim bağlantısı"
+
+#: templates/loops/loop-attachment.php:72
+#@ infinity
+msgid "No Comments"
+msgstr "Yorum Yok"
+
+#: templates/loops/loop-attachment.php:72
+#@ infinity
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: templates/loops/loop-attachment.php:72
+#@ infinity
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: templates/loops/loop-attachment.php:84
+#: templates/loops/loop-page.php:43
+#: templates/loops/loop-single.php:52
+#@ infinity
+msgid "<p><strong>Pages:</strong> "
+msgstr "<p><strong>Sayfalar:</strong> "
+
+#: templates/loops/loop-attachment.php:101
+#: templates/loops/loop-single.php:76
+#@ infinity
+msgid "Sorry, no posts matched your criteria."
+msgstr "Üzgünüz ama kriterlerinize uygun yazı bulunamadı."
+
+#: templates/loops/loop-blog.php:54
+#: templates/loops/loop.php:52
+#@ infinity
+msgid "Read More"
+msgstr "Daha Fazla Oku"
+
+#: templates/loops/loop-page.php:44
+#@ infinity
+msgid "Edit this entry."
+msgstr "Bu yazıyı düzenle."
+
+#: templates/loops/loop-single.php:47
+#@ infinity
+msgid "Read the rest of this entry &rarr;"
+msgstr "Bu yazının devamını oku &rarr;"
+
+#: templates/loops/loop.php:77
+#@ infinity
+msgid "Not Found"
+msgstr "Bulunamadı"
+
+#: templates/parts/author-box.php:29
+#, php-format
+#@ infinity
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s bütün yazılarını göster <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/parts/header-head.php:33
+#@ infinity
+msgid "Blog Posts RSS Feed"
+msgstr "RSS Beslemesi"
+
+#: templates/parts/header-head.php:34
+#@ infinity
+msgid "Blog Posts Atom Feed"
+msgstr "Atom Beslemesi"
+
+#: templates/parts/introduction-boxes.php:22
+#, php-format
+#@ infinity
+msgid "Category Archives: <span>%s</span>"
+msgstr "Kategori Arşivleri: <span>%s</span>"
+
+#: templates/parts/introduction-boxes.php:49
+#, php-format
+#@ infinity
+msgid "Tag Archives: <span>%s</span>"
+msgstr "Etiket Arşivleri: <span>%s</span>"
+
+#: templates/parts/introduction-boxes.php:76
+#, php-format
+#@ infinity
+msgid "Daily Archives: %s"
+msgstr "Günlük Arşivler: %s"
+
+#: templates/parts/introduction-boxes.php:78
+#, php-format
+#@ infinity
+msgid "Monthly Archives: %s"
+msgstr "Aylık Arşivler: %s"
+
+#: templates/parts/introduction-boxes.php:80
+#, php-format
+#@ infinity
+msgid "Yearly Archives: %s"
+msgstr "Yıllık Arşivler: %s"
+
+#: templates/parts/post-meta-bottom.php:25
+#@ infinity
+msgid "Tags: "
+msgstr "Etiketler:"
+
+#: templates/parts/post-meta-top.php:37
+#@ infinity
+msgid "No Comments &#187;"
+msgstr "Yorum Yok &#187;"
+
+#: templates/parts/post-meta-top.php:38
+#@ infinity
+msgid "1 Comment &#187;"
+msgstr "1 Yorum &#187;"
+
+#: templates/parts/post-meta-top.php:39
+#@ infinity
+msgid "% Comments &#187;"
+msgstr "% Yorum &#187;"
+
